@@ -1,0 +1,121 @@
+date,merchant,amount,category,description
+2025-12-19,Booking.com,359.88,Travel,Travel purchase at Booking.com
+2025-12-19,Airbnb,357.78,Travel,Travel purchase at Airbnb
+2025-12-19,Nobu,94.97,Dining,Dining purchase at Nobu
+2025-12-20,Sweetgreen,26.81,Dining,Dining purchase at Sweetgreen
+2025-12-20,Nordstrom,315.49,Shopping,Shopping purchase at Nordstrom
+2025-12-20,Everlane,181.8,Shopping,Shopping purchase at Everlane
+2025-12-21,Lyft,23.45,Transport,Transport purchase at Lyft
+2025-12-22,Bluestone Lane,89.18,Dining,Dining purchase at Bluestone Lane
+2025-12-22,Pret A Manger,176.71,Dining,Dining purchase at Pret A Manger
+2025-12-22,YouTube Premium,60.55,Entertainment,Entertainment purchase at YouTube Premium
+2025-12-22,Sephora,611.86,Shopping,Shopping purchase at Sephora
+2025-12-22,Regal Crown Club,16.0,Entertainment,Entertainment purchase at Regal Crown Club
+2025-12-23,Lyft,113.71,Transport,Transport purchase at Lyft
+2025-12-24,Verizon Wireless,253.82,Bills & Utilities,Bills & Utilities purchase at Verizon Wireless
+2025-12-24,Joe & The Juice,113.54,Dining,Dining purchase at Joe & The Juice
+2025-12-25,YouTube Premium,11.05,Entertainment,Entertainment purchase at YouTube Premium
+2025-12-25,Steam,28.03,Entertainment,Entertainment purchase at Steam
+2025-12-25,Nordstrom,255.58,Shopping,Shopping purchase at Nordstrom
+2025-12-26,Uber,46.11,Transport,Transport purchase at Uber
+2025-12-26,Eataly,83.49,Dining,Dining purchase at Eataly
+2025-12-26,Sweetgreen,19.2,Dining,Dining purchase at Sweetgreen
+2025-12-29,Progressive,200.0,Bills & Utilities,Bills & Utilities purchase at Progressive
+2025-12-30,Equinox,142.07,Health & Fitness,Health & Fitness purchase at Equinox
+2025-12-31,Equinox,117.88,Health & Fitness,Health & Fitness purchase at Equinox
+2026-01-01,Apple Music,34.18,Entertainment,Entertainment purchase at Apple Music
+2026-01-02,Postmates,86.09,Dining,Dining purchase at Postmates
+2026-01-02,Bluestone Lane,102.13,Dining,Dining purchase at Bluestone Lane
+2026-01-03,Central Market,101.0,Groceries,Groceries purchase at Central Market
+2026-01-03,Whole Foods Market,169.76,Groceries,Groceries purchase at Whole Foods Market
+2026-01-04,Booking.com,622.66,Travel,Travel purchase at Booking.com
+2026-01-05,Eataly,117.7,Dining,Dining purchase at Eataly
+2026-01-06,Postmates,101.37,Dining,Dining purchase at Postmates
+2026-01-07,Apple Store,106.24,Shopping,Shopping purchase at Apple Store
+2026-01-07,Central Market,139.21,Groceries,Groceries purchase at Central Market
+2026-01-07,Metra,52.42,Transport,Transport purchase at Metra
+2026-01-07,Seamless,75.05,Dining,Dining purchase at Seamless
+2026-01-08,Nobu,66.8,Dining,Dining purchase at Nobu
+2026-01-08,Pret A Manger,49.14,Dining,Dining purchase at Pret A Manger
+2026-01-09,Bird Scooter,82.34,Transport,Transport purchase at Bird Scooter
+2026-01-09,Allbirds,233.66,Shopping,Shopping purchase at Allbirds
+2026-01-09,Metra,44.54,Transport,Transport purchase at Metra
+2026-01-10,Sweetgreen,87.74,Dining,Dining purchase at Sweetgreen
+2026-01-11,Via,79.11,Transport,Transport purchase at Via
+2026-01-11,Zara,293.29,Shopping,Shopping purchase at Zara
+2026-01-11,Lululemon,170.96,Shopping,Shopping purchase at Lululemon
+2026-01-11,Equinox,126.9,Health & Fitness,Health & Fitness purchase at Equinox
+2026-01-11,SoulCycle,124.88,Health & Fitness,Health & Fitness purchase at SoulCycle
+2026-01-12,CVS,113.71,Health & Fitness,Health & Fitness purchase at CVS
+2026-01-12,Progressive,169.95,Bills & Utilities,Bills & Utilities purchase at Progressive
+2026-01-12,Spotify,75.19,Entertainment,Entertainment purchase at Spotify
+2026-01-12,Eataly,77.67,Dining,Dining purchase at Eataly
+2026-01-12,Apple Music,16.81,Entertainment,Entertainment purchase at Apple Music
+2026-01-13,Nobu,27.5,Dining,Dining purchase at Nobu
+2026-01-13,Nordstrom,201.95,Shopping,Shopping purchase at Nordstrom
+2026-01-14,Trader Joes,106.46,Groceries,Groceries purchase at Trader Joes
+2026-01-15,Seamless,28.21,Dining,Dining purchase at Seamless
+2026-01-16,Sweetgreen,63.42,Dining,Dining purchase at Sweetgreen
+2026-01-17,Walgreens,112.37,Health & Fitness,Health & Fitness purchase at Walgreens
+2026-01-17,Pret A Manger,105.29,Dining,Dining purchase at Pret A Manger
+2026-01-17,ComEd,186.46,Bills & Utilities,Bills & Utilities purchase at ComEd
+2026-01-18,CVS,70.49,Health & Fitness,Health & Fitness purchase at CVS
+2026-01-20,Planet Fitness,143.18,Bills & Utilities,Bills & Utilities purchase at Planet Fitness
+2026-01-20,The Capital Grille,31.27,Dining,Dining purchase at The Capital Grille
+2026-01-21,Everlane,417.92,Shopping,Shopping purchase at Everlane
+2026-01-22,Sprouts,222.58,Groceries,Groceries purchase at Sprouts
+2026-01-22,Sephora,194.5,Shopping,Shopping purchase at Sephora
+2026-01-23,Apple Store,41.0,Shopping,Shopping purchase at Apple Store
+2026-01-23,Lululemon,414.11,Shopping,Shopping purchase at Lululemon
+2026-01-23,Bird Scooter,130.67,Transport,Transport purchase at Bird Scooter
+2026-01-24,Caviar,81.19,Dining,Dining purchase at Caviar
+2026-01-24,Best Buy,433.28,Shopping,Shopping purchase at Best Buy
+2026-01-24,Caviar,23.87,Dining,Dining purchase at Caviar
+2026-01-25,Bird Scooter,72.1,Transport,Transport purchase at Bird Scooter
+2026-01-25,AMC A-List,80.87,Entertainment,Entertainment purchase at AMC A-List
+2026-01-25,Uber,63.43,Transport,Transport purchase at Uber
+2026-01-25,Joe & The Juice,34.16,Dining,Dining purchase at Joe & The Juice
+2026-01-25,AT&T Fiber,205.5,Bills & Utilities,Bills & Utilities purchase at AT&T Fiber
+2026-01-25,Postmates,163.19,Dining,Dining purchase at Postmates
+2026-01-26,Metra,53.6,Transport,Transport purchase at Metra
+2026-01-26,Central Market,105.48,Groceries,Groceries purchase at Central Market
+2026-01-27,Lyft,68.27,Transport,Transport purchase at Lyft
+2026-01-28,Amazon Prime,79.48,Shopping,Shopping purchase at Amazon Prime
+2026-01-28,Eataly,69.51,Dining,Dining purchase at Eataly
+2026-01-29,Nordstrom,223.91,Shopping,Shopping purchase at Nordstrom
+2026-01-31,Netflix,12.81,Entertainment,Entertainment purchase at Netflix
+2026-01-31,Everlane,529.0,Shopping,Shopping purchase at Everlane
+2026-01-31,Equinox,178.67,Health & Fitness,Health & Fitness purchase at Equinox
+2026-01-31,Via,64.93,Transport,Transport purchase at Via
+2026-02-01,Joe & The Juice,77.58,Dining,Dining purchase at Joe & The Juice
+2026-02-01,Trader Joes,115.73,Groceries,Groceries purchase at Trader Joes
+2026-02-02,One Medical,103.36,Health & Fitness,Health & Fitness purchase at One Medical
+2026-02-02,Trader Joes,140.39,Groceries,Groceries purchase at Trader Joes
+2026-02-04,Trader Joes,114.51,Groceries,Groceries purchase at Trader Joes
+2026-02-04,Metra,130.06,Transport,Transport purchase at Metra
+2026-02-05,Sprouts,291.31,Groceries,Groceries purchase at Sprouts
+2026-02-07,Bluestone Lane,15.89,Dining,Dining purchase at Bluestone Lane
+2026-02-08,Regal Crown Club,88.59,Entertainment,Entertainment purchase at Regal Crown Club
+2026-02-08,Caviar,117.38,Dining,Dining purchase at Caviar
+2026-02-09,The Capital Grille,17.49,Dining,Dining purchase at The Capital Grille
+2026-02-09,Postmates,110.66,Dining,Dining purchase at Postmates
+2026-02-09,Caviar,99.38,Dining,Dining purchase at Caviar
+2026-02-09,Enterprise Rent-A-Car,234.31,Travel,Travel purchase at Enterprise Rent-A-Car
+2026-02-09,Nordstrom,122.48,Shopping,Shopping purchase at Nordstrom
+2026-02-09,Central Market,156.69,Groceries,Groceries purchase at Central Market
+2026-02-10,Eataly,111.47,Dining,Dining purchase at Eataly
+2026-02-10,ZocDoc,56.59,Health & Fitness,Health & Fitness purchase at ZocDoc
+2026-02-11,Trader Joes,218.86,Groceries,Groceries purchase at Trader Joes
+2026-02-11,Walgreens,275.1,Health & Fitness,Health & Fitness purchase at Walgreens
+2026-02-11,Caviar,75.66,Dining,Dining purchase at Caviar
+2026-02-12,AMC A-List,75.24,Entertainment,Entertainment purchase at AMC A-List
+2026-02-12,Via,128.11,Transport,Transport purchase at Via
+2026-02-12,Sephora,85.39,Shopping,Shopping purchase at Sephora
+2026-02-13,The Capital Grille,16.55,Dining,Dining purchase at The Capital Grille
+2026-02-13,Fresh Direct,82.4,Groceries,Groceries purchase at Fresh Direct
+2026-02-14,Warby Parker,240.33,Shopping,Shopping purchase at Warby Parker
+2026-02-15,Sephora,133.13,Shopping,Shopping purchase at Sephora
+2026-02-15,Seamless,62.74,Dining,Dining purchase at Seamless
+2026-02-15,Sweetgreen,81.58,Dining,Dining purchase at Sweetgreen
+2026-02-16,Eataly,15.67,Dining,Dining purchase at Eataly
+2026-02-16,Via,9.54,Transport,Transport purchase at Via

@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Personal Finance Copilot</title>
+    <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica', 'Arial', sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        .header {
+            text-align: center;
+            color: white;
+            margin-bottom: 30px;
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            font-weight: 700;
+        }
+
+        .header p {
+            font-size: 1.1rem;
+            opacity: 0.9;
+        }
+
+        .card {
+            background: #0f3460;
+            color: white;
+            border-radius: 16px;
+            padding: 24px;
+            margin-bottom: 20px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+        }
+
+        .card h2 {
+            font-size: 1.5rem;
+            margin-bottom: 16px;
+            color: white;
+        }
+
+        .upload-section {
+            border: 2px dashed #e94560;
+            background: rgba(15, 52, 96, 0.5);
+            color: white;
+            border-radius: 12px;
+            padding: 40px;
+            text-align: center;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+
+        .upload-section:hover {
+            border-color: #ff5e7a;
+            background: rgba(15, 52, 96, 0.7);
+        }
+
+        .upload-section input {
+            display: none;
+        }
+
+        .btn {
+            background: linear-gradient(135deg, #e94560 0%, #d62246 100%);
+            color: white;
+            border: none;
+            padding: 12px 32px;
+            border-radius: 8px;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform 0.2s;
+        }
+
+        .btn:hover {
+            transform: translateY(-2px);
+        }
+
+        .btn:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 16px;
+            margin-bottom: 20px;
+        }
+
+        .stat-card {
+            background: linear-gradient(135deg, #0f3460 0%, #16213e 100%);
+            box-shadow: 0 8px 16px rgba(0,0,0,0.3);
+            color: white;
+            padding: 20px;
+            border-radius: 12px;
+            text-align: center;
+        }
+
+        .stat-card h3 {
+            font-size: 0.9rem;
+            opacity: 0.9;
+            margin-bottom: 8px;
+        }
+
+        .stat-card p {
+            font-size: 2rem;
+            font-weight: 700;
+        }
+
+        .insight-item {
+            background: rgba(233, 69, 96, 0.1);
+            border-left: 4px solid #e94560;
+            color: white;
+            padding: 16px;
+            border-radius: 8px;
+            margin-bottom: 12px;
+        }
+
+        .nudge-card {
+            background: #0f3460;
+            border: 2px solid #1a1a2e;
+            color: white;
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 16px;
+            transition: all 0.3s;
+        }
+
+        .nudge-card:hover {
+            border-color: #e94560;
+            box-shadow: 0 4px 12px rgba(233, 69, 96, 0.3);
+            transform: translateY(-2px);
+        }
+
+        .nudge-card h3 {
+            color: white;
+            margin-bottom: 8px;
+        }
+
+        .nudge-card .savings {
+            color: #10b981;
+            font-weight: 600;
+            margin-top: 8px;
+        }
+
+        .priority-badge {
+            display: inline-block;
+            padding: 4px 12px;
+            border-radius: 12px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            margin-left: 8px;
+        }
+
+        .priority-high {
+            background: #fee2e2;
+            color: #dc2626;
+        }
+
+        .priority-medium {
+            background: #fef3c7;
+            color: #d97706;
+        }
+
+        .priority-low {
+            background: #dbeafe;
+            color: #2563eb;
+        }
+
+        .chart-container {
+            position: relative;
+            height: 400px;
+            margin-top: 20px;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #667eea;
+            font-size: 1.2rem;
+        }
+
+        .error {
+            background: #fee2e2;
+            color: #dc2626;
+            padding: 16px;
+            border-radius: 8px;
+            margin-bottom: 16px;
+        }
+
+        .tabs {
+            display: flex;
+            gap: 16px;
+            margin-bottom: 24px;
+            border-bottom: 2px solid #e0e0e0;
+        }
+
+        .tab {
+            padding: 12px 24px;
+            background: none;
+            border: none;
+            font-size: 1rem;
+            font-weight: 600;
+            color: #a0a0a0;
+            cursor: pointer;
+            border-bottom: 3px solid transparent;
+            transition: all 0.3s;
+        }
+
+        .tab:hover {
+            color: #e94560;
+        }
+
+        .tab.active {
+            color: #e94560;
+            border-bottom-color: #e94560;
+        }
+
+        /* ============================================ */
+        /* DARK THEME TEXT VISIBILITY FIXES */
+        /* ============================================ */
+
+        /* Upload Section - Dark text for white background */
+        .upload-section {
+            background: white !important;
+            color: #1a1a2e !important;
+        }
+
+        .upload-section h2 {
+            color: #1a1a2e !important;
+        }
+
+        .upload-section p {
+            color: #666 !important;
+        }
+
+        /* Category Breakdown - Black text on white boxes */
+        .card > div[style*="display: flex"] {
+            border: 2px solid #1a1a2e !important;
+            background: white !important;
+        }
+
+        .card > div[style*="display: flex"] span {
+            color: #1a1a2e !important;
+        }
+
+        .card > div[style*="display: flex"] span[style*="fontSize: 1.2rem"] {
+            color: #4facfe !important;
+        }
+
+        /* AI Insights - White text visible on dark background */
+        .insight-item {
+            background: rgba(15, 52, 96, 0.5) !important;
+            border-left: 4px solid #e94560 !important;
+            padding: 16px !important;
+        }
+
+        .insight-item p {
+            color: white !important;
+            font-size: 1.05rem !important;
+        }
+
+        /* Nudges - White text visible */
+        .nudge-card {
+            background: #0f3460 !important;
+            border: 2px solid #1a1a2e !important;
+        }
+
+        .nudge-card h3 {
+            color: white !important;
+        }
+
+        .nudge-card p {
+            color: #e8e8e8 !important;
+        }
+
+        .nudge-card .savings {
+            color: #43e97b !important;
+        }
+
+        /* Chart container */
+        .chart-container {
+            background: rgba(255, 255, 255, 0.03);
+            padding: 20px;
+            border-radius: 12px;
+        }
+
+        /* Keep card headers white for dark cards */
+        .card h2 {
+            color: white !important;
+        }
+
+        .card h3 {
+            color: white !important;
+        }
+    </style>
+</head>
+<body>
+    <div id="root"></div>
+
+    <script type="text/babel" src="app.js"></script>
+</body>
+</html>

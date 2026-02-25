@@ -1,0 +1,101 @@
+date,merchant,amount,category,description
+2025-12-05,Old Navy,76.51,Shopping,Shopping purchase at Old Navy
+2025-12-05,McDonalds,27.41,Dining,Dining purchase at McDonalds
+2025-12-06,Spotify,8.94,Entertainment,Entertainment purchase at Spotify
+2025-12-07,ComEd,132.49,Bills & Utilities,Bills & Utilities purchase at ComEd
+2025-12-08,Gas Station,13.66,Transport,Transport purchase at Gas Station
+2025-12-09,Aldi,82.62,Groceries,Groceries purchase at Aldi
+2025-12-11,State Farm,40.79,Bills & Utilities,Bills & Utilities purchase at State Farm
+2025-12-12,Shell,22.01,Transport,Transport purchase at Shell
+2025-12-12,Netflix,8.34,Entertainment,Entertainment purchase at Netflix
+2025-12-13,Gas Station,18.1,Transport,Transport purchase at Gas Station
+2025-12-13,Jimmy Johns,20.13,Dining,Dining purchase at Jimmy Johns
+2025-12-14,Jimmy Johns,26.33,Dining,Dining purchase at Jimmy Johns
+2025-12-14,Aldi,41.88,Groceries,Groceries purchase at Aldi
+2025-12-14,Target,45.96,Groceries,Groceries purchase at Target
+2025-12-15,Sams Club,53.62,Groceries,Groceries purchase at Sams Club
+2025-12-16,Panera,15.79,Dining,Dining purchase at Panera
+2025-12-17,Netflix,8.98,Entertainment,Entertainment purchase at Netflix
+2025-12-17,Redbox,12.95,Entertainment,Entertainment purchase at Redbox
+2025-12-17,Target,41.41,Groceries,Groceries purchase at Target
+2025-12-20,Xfinity,42.49,Bills & Utilities,Bills & Utilities purchase at Xfinity
+2025-12-20,Walmart,53.21,Groceries,Groceries purchase at Walmart
+2025-12-21,Jimmy Johns,30.28,Dining,Dining purchase at Jimmy Johns
+2025-12-22,Xfinity,66.83,Bills & Utilities,Bills & Utilities purchase at Xfinity
+2025-12-23,Wendys,25.33,Dining,Dining purchase at Wendys
+2025-12-24,Public Library,9.54,Entertainment,Entertainment purchase at Public Library
+2025-12-25,Chipotle,13.74,Dining,Dining purchase at Chipotle
+2025-12-26,McDonalds,23.12,Dining,Dining purchase at McDonalds
+2025-12-26,Redbox,22.9,Entertainment,Entertainment purchase at Redbox
+2025-12-29,Public Library,6.91,Entertainment,Entertainment purchase at Public Library
+2025-12-29,Redbox,6.6,Entertainment,Entertainment purchase at Redbox
+2025-12-30,Marathon,6.34,Transport,Transport purchase at Marathon
+2025-12-30,Marshalls,122.16,Shopping,Shopping purchase at Marshalls
+2026-01-01,Park District,9.83,Entertainment,Entertainment purchase at Park District
+2026-01-02,Kroger,35.13,Groceries,Groceries purchase at Kroger
+2026-01-03,McDonalds,17.42,Dining,Dining purchase at McDonalds
+2026-01-04,Park District,13.23,Entertainment,Entertainment purchase at Park District
+2026-01-05,Subway,27.07,Dining,Dining purchase at Subway
+2026-01-05,BP,10.03,Transport,Transport purchase at BP
+2026-01-05,TJ Maxx,31.95,Shopping,Shopping purchase at TJ Maxx
+2026-01-05,Costco,93.39,Groceries,Groceries purchase at Costco
+2026-01-05,Mint Mobile,57.63,Bills & Utilities,Bills & Utilities purchase at Mint Mobile
+2026-01-07,Target,70.7,Groceries,Groceries purchase at Target
+2026-01-08,BP,41.0,Transport,Transport purchase at BP
+2026-01-08,Jimmy Johns,21.73,Dining,Dining purchase at Jimmy Johns
+2026-01-09,Redbox,24.06,Entertainment,Entertainment purchase at Redbox
+2026-01-09,CTA Ventra,10.44,Transport,Transport purchase at CTA Ventra
+2026-01-10,Panera,7.5,Dining,Dining purchase at Panera
+2026-01-12,CTA Ventra,13.96,Transport,Transport purchase at CTA Ventra
+2026-01-12,Jimmy Johns,25.96,Dining,Dining purchase at Jimmy Johns
+2026-01-13,Hulu,21.15,Entertainment,Entertainment purchase at Hulu
+2026-01-14,Shell,16.09,Transport,Transport purchase at Shell
+2026-01-14,Gas Station,28.68,Transport,Transport purchase at Gas Station
+2026-01-15,McDonalds,7.81,Dining,Dining purchase at McDonalds
+2026-01-16,TJ Maxx,86.11,Shopping,Shopping purchase at TJ Maxx
+2026-01-16,Pizza Hut,17.01,Dining,Dining purchase at Pizza Hut
+2026-01-17,Gas Station,34.21,Transport,Transport purchase at Gas Station
+2026-01-18,Mint Mobile,86.26,Bills & Utilities,Bills & Utilities purchase at Mint Mobile
+2026-01-18,Walmart,85.33,Groceries,Groceries purchase at Walmart
+2026-01-20,TJ Maxx,33.08,Shopping,Shopping purchase at TJ Maxx
+2026-01-20,Free Concert,23.66,Entertainment,Entertainment purchase at Free Concert
+2026-01-22,Megabus,92.76,Travel,Travel purchase at Megabus
+2026-01-22,Taco Bell,28.89,Dining,Dining purchase at Taco Bell
+2026-01-22,Park District,9.11,Entertainment,Entertainment purchase at Park District
+2026-01-22,Gas Station,32.02,Transport,Transport purchase at Gas Station
+2026-01-23,Pizza Hut,12.57,Dining,Dining purchase at Pizza Hut
+2026-01-24,ComEd,63.08,Bills & Utilities,Bills & Utilities purchase at ComEd
+2026-01-24,Spotify,18.4,Entertainment,Entertainment purchase at Spotify
+2026-01-25,Disney+,19.41,Entertainment,Entertainment purchase at Disney+
+2026-01-25,Sams Club,26.0,Groceries,Groceries purchase at Sams Club
+2026-01-27,Disney+,11.5,Entertainment,Entertainment purchase at Disney+
+2026-01-28,Ross,67.13,Shopping,Shopping purchase at Ross
+2026-01-29,Chipotle,29.12,Dining,Dining purchase at Chipotle
+2026-01-29,Etsy,71.02,Shopping,Shopping purchase at Etsy
+2026-01-30,State Farm,132.95,Bills & Utilities,Bills & Utilities purchase at State Farm
+2026-02-01,Gas Station,23.9,Transport,Transport purchase at Gas Station
+2026-02-01,Etsy,109.39,Shopping,Shopping purchase at Etsy
+2026-02-03,Sams Club,47.81,Groceries,Groceries purchase at Sams Club
+2026-02-04,Metra,9.47,Transport,Transport purchase at Metra
+2026-02-04,ComEd,134.08,Bills & Utilities,Bills & Utilities purchase at ComEd
+2026-02-04,Target,69.81,Groceries,Groceries purchase at Target
+2026-02-05,Target,76.67,Groceries,Groceries purchase at Target
+2026-02-05,Free Concert,17.14,Entertainment,Entertainment purchase at Free Concert
+2026-02-06,Cricket Wireless,72.47,Bills & Utilities,Bills & Utilities purchase at Cricket Wireless
+2026-02-07,State Farm,50.42,Bills & Utilities,Bills & Utilities purchase at State Farm
+2026-02-08,Amazon,38.07,Shopping,Shopping purchase at Amazon
+2026-02-08,CTA Ventra,37.81,Transport,Transport purchase at CTA Ventra
+2026-02-08,Ross,104.61,Shopping,Shopping purchase at Ross
+2026-02-09,Disney+,22.64,Entertainment,Entertainment purchase at Disney+
+2026-02-09,Costco,58.71,Groceries,Groceries purchase at Costco
+2026-02-10,Minute Clinic,52.14,Health & Fitness,Health & Fitness purchase at Minute Clinic
+2026-02-10,Local Diner,11.38,Dining,Dining purchase at Local Diner
+2026-02-11,Taco Bell,33.41,Dining,Dining purchase at Taco Bell
+2026-02-12,Disney+,9.33,Entertainment,Entertainment purchase at Disney+
+2026-02-12,Marshalls,16.89,Shopping,Shopping purchase at Marshalls
+2026-02-13,Walmart,90.29,Groceries,Groceries purchase at Walmart
+2026-02-13,Facebook Marketplace,77.61,Shopping,Shopping purchase at Facebook Marketplace
+2026-02-15,Old Navy,111.7,Shopping,Shopping purchase at Old Navy
+2026-02-16,Walgreens,46.24,Health & Fitness,Health & Fitness purchase at Walgreens
+2026-02-16,CTA Ventra,36.31,Transport,Transport purchase at CTA Ventra
+2026-02-16,Park District,11.22,Entertainment,Entertainment purchase at Park District

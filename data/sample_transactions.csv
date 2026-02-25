@@ -1,0 +1,146 @@
+date,merchant,amount,category,description
+2025-11-12,Trader Joes,95.78,Groceries,Groceries purchase at Trader Joes
+2025-11-12,Target,98.6,Groceries,Groceries purchase at Target
+2025-11-13,Yoga Studio,50.6,Health & Fitness,Health & Fitness purchase at Yoga Studio
+2025-11-13,Target,80.77,Groceries,Groceries purchase at Target
+2025-11-13,Target,140.56,Shopping,Shopping purchase at Target
+2025-11-14,Apple Store,331.64,Shopping,Shopping purchase at Apple Store
+2025-11-14,Uber,23.09,Transport,Transport purchase at Uber
+2025-11-14,Mariano's,66.97,Groceries,Groceries purchase at Mariano's
+2025-11-16,Pizza Hut,38.07,Dining,Dining purchase at Pizza Hut
+2025-11-16,McDonalds,26.88,Dining,Dining purchase at McDonalds
+2025-11-17,Parking Garage,13.3,Transport,Transport purchase at Parking Garage
+2025-11-17,Airbnb,548.95,Travel,Travel purchase at Airbnb
+2025-11-17,Shell Gas Station,62.4,Transport,Transport purchase at Shell Gas Station
+2025-11-18,Walmart,150.99,Groceries,Groceries purchase at Walmart
+2025-11-19,Dave & Busters,34.3,Entertainment,Entertainment purchase at Dave & Busters
+2025-11-19,Hilton Hotel,614.81,Travel,Travel purchase at Hilton Hotel
+2025-11-20,Walgreens,57.46,Health & Fitness,Health & Fitness purchase at Walgreens
+2025-11-20,McDonalds,64.6,Dining,Dining purchase at McDonalds
+2025-11-20,Spotify Premium,27.72,Entertainment,Entertainment purchase at Spotify Premium
+2025-11-20,Amazon,116.07,Shopping,Shopping purchase at Amazon
+2025-11-21,Lyft,83.01,Transport,Transport purchase at Lyft
+2025-11-22,Walmart,152.67,Groceries,Groceries purchase at Walmart
+2025-11-22,Nike.com,111.12,Shopping,Shopping purchase at Nike.com
+2025-11-23,Uber,57.82,Transport,Transport purchase at Uber
+2025-11-23,Parking Garage,31.49,Transport,Transport purchase at Parking Garage
+2025-11-24,H&M,309.21,Shopping,Shopping purchase at H&M
+2025-11-25,Chipotle,27.32,Dining,Dining purchase at Chipotle
+2025-11-26,Olive Garden,45.05,Dining,Dining purchase at Olive Garden
+2025-11-26,Chevron,15.91,Transport,Transport purchase at Chevron
+2025-11-26,Hertz Rental,470.11,Travel,Travel purchase at Hertz Rental
+2025-11-27,Amazon,54.43,Shopping,Shopping purchase at Amazon
+2025-11-29,Subway,59.78,Dining,Dining purchase at Subway
+2025-11-29,GNC,85.31,Health & Fitness,Health & Fitness purchase at GNC
+2025-11-29,Zara,346.27,Shopping,Shopping purchase at Zara
+2025-11-30,CVS Pharmacy,58.19,Health & Fitness,Health & Fitness purchase at CVS Pharmacy
+2025-11-30,Peoples Gas,119.81,Bills & Utilities,Bills & Utilities purchase at Peoples Gas
+2025-11-30,Trader Joes,74.63,Groceries,Groceries purchase at Trader Joes
+2025-12-01,Amazon,101.67,Shopping,Shopping purchase at Amazon
+2025-12-01,LA Fitness,84.65,Health & Fitness,Health & Fitness purchase at LA Fitness
+2025-12-02,Walmart,144.11,Groceries,Groceries purchase at Walmart
+2025-12-04,H&M,279.53,Shopping,Shopping purchase at H&M
+2025-12-04,LA Fitness,63.37,Health & Fitness,Health & Fitness purchase at LA Fitness
+2025-12-06,Hulu,26.11,Entertainment,Entertainment purchase at Hulu
+2025-12-07,Uber,63.17,Transport,Transport purchase at Uber
+2025-12-07,Shell Gas Station,20.62,Transport,Transport purchase at Shell Gas Station
+2025-12-09,Nike.com,131.12,Shopping,Shopping purchase at Nike.com
+2025-12-09,Peoples Gas,165.48,Bills & Utilities,Bills & Utilities purchase at Peoples Gas
+2025-12-13,Five Guys,36.09,Dining,Dining purchase at Five Guys
+2025-12-13,Jewel-Osco,166.18,Groceries,Groceries purchase at Jewel-Osco
+2025-12-13,Lyft,31.98,Transport,Transport purchase at Lyft
+2025-12-13,Chevron,41.42,Transport,Transport purchase at Chevron
+2025-12-14,Amazon,150.38,Shopping,Shopping purchase at Amazon
+2025-12-14,Chevron,31.8,Transport,Transport purchase at Chevron
+2025-12-16,CVS Pharmacy,61.69,Health & Fitness,Health & Fitness purchase at CVS Pharmacy
+2025-12-16,Trader Joes,161.12,Groceries,Groceries purchase at Trader Joes
+2025-12-17,Chevron,57.11,Transport,Transport purchase at Chevron
+2025-12-18,Chick-fil-A,29.2,Dining,Dining purchase at Chick-fil-A
+2025-12-18,Walmart,153.42,Groceries,Groceries purchase at Walmart
+2025-12-18,Best Buy,273.35,Shopping,Shopping purchase at Best Buy
+2025-12-18,LA Fitness,32.89,Health & Fitness,Health & Fitness purchase at LA Fitness
+2025-12-19,Uber,30.19,Transport,Transport purchase at Uber
+2025-12-20,Hertz Rental,316.95,Travel,Travel purchase at Hertz Rental
+2025-12-20,Whole Foods,99.96,Groceries,Groceries purchase at Whole Foods
+2025-12-21,Dave & Busters,27.45,Entertainment,Entertainment purchase at Dave & Busters
+2025-12-21,United Airlines,503.05,Travel,Travel purchase at United Airlines
+2025-12-21,Hertz Rental,441.86,Travel,Travel purchase at Hertz Rental
+2025-12-21,Olive Garden,21.95,Dining,Dining purchase at Olive Garden
+2025-12-22,Starbucks,47.34,Dining,Dining purchase at Starbucks
+2025-12-22,Shell Gas Station,81.21,Transport,Transport purchase at Shell Gas Station
+2025-12-23,United Airlines,317.36,Travel,Travel purchase at United Airlines
+2025-12-23,Chipotle,13.17,Dining,Dining purchase at Chipotle
+2025-12-23,Airbnb,553.09,Travel,Travel purchase at Airbnb
+2025-12-23,Amazon,138.42,Shopping,Shopping purchase at Amazon
+2025-12-24,Xfinity Internet,194.14,Bills & Utilities,Bills & Utilities purchase at Xfinity Internet
+2025-12-25,Disney+,29.88,Entertainment,Entertainment purchase at Disney+
+2025-12-26,Jewel-Osco,74.15,Groceries,Groceries purchase at Jewel-Osco
+2025-12-27,Subway,52.71,Dining,Dining purchase at Subway
+2025-12-27,Costco,104.96,Groceries,Groceries purchase at Costco
+2025-12-27,Xfinity Internet,54.28,Bills & Utilities,Bills & Utilities purchase at Xfinity Internet
+2025-12-30,Sephora,201.76,Shopping,Shopping purchase at Sephora
+2025-12-30,Peoples Gas,175.92,Bills & Utilities,Bills & Utilities purchase at Peoples Gas
+2025-12-31,Hilton Hotel,519.58,Travel,Travel purchase at Hilton Hotel
+2025-12-31,CTA Ventra,59.51,Transport,Transport purchase at CTA Ventra
+2025-12-31,Dave & Busters,30.01,Entertainment,Entertainment purchase at Dave & Busters
+2026-01-01,Trader Joes,167.99,Groceries,Groceries purchase at Trader Joes
+2026-01-01,Target,327.02,Shopping,Shopping purchase at Target
+2026-01-01,McDonalds,46.36,Dining,Dining purchase at McDonalds
+2026-01-01,Hertz Rental,638.08,Travel,Travel purchase at Hertz Rental
+2026-01-01,Shell Gas Station,77.21,Transport,Transport purchase at Shell Gas Station
+2026-01-02,Parking Garage,50.74,Transport,Transport purchase at Parking Garage
+2026-01-02,Walgreens,20.76,Health & Fitness,Health & Fitness purchase at Walgreens
+2026-01-02,Parking Garage,22.7,Transport,Transport purchase at Parking Garage
+2026-01-05,Uber Eats,46.49,Dining,Dining purchase at Uber Eats
+2026-01-05,Trader Joes,143.84,Groceries,Groceries purchase at Trader Joes
+2026-01-05,Shake Shack,33.28,Dining,Dining purchase at Shake Shack
+2026-01-06,Apple Store,35.58,Shopping,Shopping purchase at Apple Store
+2026-01-06,H&M,298.78,Shopping,Shopping purchase at H&M
+2026-01-07,Target,92.16,Groceries,Groceries purchase at Target
+2026-01-07,Yoga Studio,63.42,Health & Fitness,Health & Fitness purchase at Yoga Studio
+2026-01-08,Chipotle,53.75,Dining,Dining purchase at Chipotle
+2026-01-08,Uber Eats,31.98,Dining,Dining purchase at Uber Eats
+2026-01-10,Walmart,160.27,Groceries,Groceries purchase at Walmart
+2026-01-10,Pizza Hut,50.09,Dining,Dining purchase at Pizza Hut
+2026-01-10,Jewel-Osco,150.75,Groceries,Groceries purchase at Jewel-Osco
+2026-01-11,Shake Shack,29.44,Dining,Dining purchase at Shake Shack
+2026-01-11,CVS Pharmacy,35.43,Health & Fitness,Health & Fitness purchase at CVS Pharmacy
+2026-01-11,Subway,31.35,Dining,Dining purchase at Subway
+2026-01-12,Hertz Rental,621.21,Travel,Travel purchase at Hertz Rental
+2026-01-13,Best Buy,334.3,Shopping,Shopping purchase at Best Buy
+2026-01-16,Costco,85.01,Groceries,Groceries purchase at Costco
+2026-01-17,Mariano's,56.13,Groceries,Groceries purchase at Mariano's
+2026-01-17,DoorDash,42.31,Dining,Dining purchase at DoorDash
+2026-01-17,Pizza Hut,22.41,Dining,Dining purchase at Pizza Hut
+2026-01-17,Shake Shack,35.15,Dining,Dining purchase at Shake Shack
+2026-01-20,Target,62.65,Groceries,Groceries purchase at Target
+2026-01-20,Mariano's,117.92,Groceries,Groceries purchase at Mariano's
+2026-01-22,Starbucks,49.82,Dining,Dining purchase at Starbucks
+2026-01-22,Subway,12.8,Dining,Dining purchase at Subway
+2026-01-23,GNC,16.61,Health & Fitness,Health & Fitness purchase at GNC
+2026-01-24,Lyft,38.94,Transport,Transport purchase at Lyft
+2026-01-26,Grubhub,51.09,Dining,Dining purchase at Grubhub
+2026-01-26,Amazon,333.26,Shopping,Shopping purchase at Amazon
+2026-01-27,Peoples Gas,166.0,Bills & Utilities,Bills & Utilities purchase at Peoples Gas
+2026-01-27,Sephora,137.25,Shopping,Shopping purchase at Sephora
+2026-01-27,CTA Ventra,73.98,Transport,Transport purchase at CTA Ventra
+2026-01-27,Disney+,38.01,Entertainment,Entertainment purchase at Disney+
+2026-01-28,Chick-fil-A,29.54,Dining,Dining purchase at Chick-fil-A
+2026-01-28,Uber Eats,36.9,Dining,Dining purchase at Uber Eats
+2026-01-30,Zara,332.15,Shopping,Shopping purchase at Zara
+2026-01-31,Trader Joes,40.86,Groceries,Groceries purchase at Trader Joes
+2026-01-31,Apple Store,260.33,Shopping,Shopping purchase at Apple Store
+2026-02-01,Chevron,39.81,Transport,Transport purchase at Chevron
+2026-02-01,Mariano's,161.07,Groceries,Groceries purchase at Mariano's
+2026-02-02,Subway,31.16,Dining,Dining purchase at Subway
+2026-02-02,Whole Foods,80.67,Groceries,Groceries purchase at Whole Foods
+2026-02-03,ComEd Electric,82.44,Bills & Utilities,Bills & Utilities purchase at ComEd Electric
+2026-02-03,Chipotle,38.2,Dining,Dining purchase at Chipotle
+2026-02-03,Target,111.71,Shopping,Shopping purchase at Target
+2026-02-04,CTA Ventra,16.66,Transport,Transport purchase at CTA Ventra
+2026-02-05,State Farm Insurance,149.92,Bills & Utilities,Bills & Utilities purchase at State Farm Insurance
+2026-02-06,Five Guys,56.24,Dining,Dining purchase at Five Guys
+2026-02-06,Uber,75.08,Transport,Transport purchase at Uber
+2026-02-08,Target,128.64,Shopping,Shopping purchase at Target
+2026-02-09,Nike.com,200.29,Shopping,Shopping purchase at Nike.com
+2026-02-09,State Farm Insurance,54.52,Bills & Utilities,Bills & Utilities purchase at State Farm Insurance
